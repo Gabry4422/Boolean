@@ -1,0 +1,95 @@
+body{
+ background-image: url(background.jpg);
+ background-size:cover;
+ background-repeat: no-repeat;
+ background-position:top;
+ background-attachment: scroll;
+
+}
+.conteiner{
+  width: 300px;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  border-top: 2px;
+}
+
+.logo{
+  width: 200px;
+  margin-left: 10px;
+  margin-right: 500px;
+  margin-top: 100px;
+}
+
+.logo-text{
+  font-size: 20px;
+  font-weight: 200px;
+  color: rgb(8, 220, 4);
+  text-align: 100px;
+}
+
+.quadrato{
+ text-align: center;
+ margin-top: inherit;
+ background-color:rgb(8, 220, 4);
+ margin-right: 510px;
+ margin-left: 510px;
+ margin-top: 20px;
+ height: 50px;
+
+}
+
+hr{
+  width: 1000px;
+  height: 40px;
+  background-color:rgb(8, 220, 4);
+  border-color: rgb(8, 220, 4);
+}
+
+.button{
+text-align: center;
+}
+
+.input1{
+  margin-left: 510px;
+  margin-top: 30px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+#information{
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+#information2{
+  font-size: 15px;
+  margin-top: 3px;
+}
+
+#hr-information{
+  width: 350px;
+  height: 20px;
+  background-color:rgba(245,180,83,255) ;
+  border-color: rgba(245,180,83,255);
+  margin-left: 1px;
+border-radius: 5px 5px 5px 5px;
+}
+
+#hr-information2{
+  width: 450px;
+  height: 20px;
+  background-color:rgba(30,195,30,255);
+  border-color: rgba(30,195,30,255);
+  margin-left: 1px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#hr-information3{
+  width: 100px;
+  height: 20px;
+  background-color: rgba(190,65,65,255);
+  border-color:  rgba(190,65,65,255);
+  margin-left: 1px;
+  border-radius: 5px 5px 5px 5px;
+}
